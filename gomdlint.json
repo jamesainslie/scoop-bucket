@@ -1,26 +1,26 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.1/gomdlint_Windows_i386.zip",
+            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.2/gomdlint_Windows_i386.zip",
             "bin": [
                 "gomdlint.exe"
             ],
-            "hash": "4206fefff1514aecf522134aae3937068a28265456b9df0f2d4825a7b37fa0c2"
+            "hash": "cd724f98979bc63d981d6d79bf8a4c6326a6c2f071c2eb31982b07dc10c1c4bf"
         },
         "64bit": {
-            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.1/gomdlint_Windows_x86_64.zip",
+            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.2/gomdlint_Windows_x86_64.zip",
             "bin": [
                 "gomdlint.exe"
             ],
-            "hash": "2a948c07f516d6bd55ad502c084a42aa26a561a24e694226a5b61a4530d35e69"
+            "hash": "264a44ffdb24789fb19c2e4d762423bf3ab9f387c01487fd43bd9180d3484b8f"
         },
         "arm64": {
-            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.1/gomdlint_Windows_arm64.zip",
+            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.2/gomdlint_Windows_arm64.zip",
             "bin": [
                 "gomdlint.exe"
             ],
-            "hash": "5736a693b9770c0065951c4e1a6a13642a7329d6c9c89be46c951454a72a7a7f"
+            "hash": "9706d754fd5dfbb5471c87c2116857136eda7d1b7f6d9e1fc0de9b53387378d4"
         }
     },
     "homepage": "https://github.com/jamesainslie/gomdlint",
