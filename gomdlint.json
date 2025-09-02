@@ -1,0 +1,29 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.1/gomdlint_Windows_i386.zip",
+            "bin": [
+                "gomdlint.exe"
+            ],
+            "hash": "4206fefff1514aecf522134aae3937068a28265456b9df0f2d4825a7b37fa0c2"
+        },
+        "64bit": {
+            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.1/gomdlint_Windows_x86_64.zip",
+            "bin": [
+                "gomdlint.exe"
+            ],
+            "hash": "2a948c07f516d6bd55ad502c084a42aa26a561a24e694226a5b61a4530d35e69"
+        },
+        "arm64": {
+            "url": "https://github.com/jamesainslie/gomdlint/releases/download/v0.2.1/gomdlint_Windows_arm64.zip",
+            "bin": [
+                "gomdlint.exe"
+            ],
+            "hash": "5736a693b9770c0065951c4e1a6a13642a7329d6c9c89be46c951454a72a7a7f"
+        }
+    },
+    "homepage": "https://github.com/jamesainslie/gomdlint",
+    "license": "MIT",
+    "description": "A high-performance Go markdown linter with plugin extensibility"
+}
